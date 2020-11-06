@@ -1,0 +1,14 @@
+.banner-text a{
+    font-size: 1.87em;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+    background-color: var(--red);
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    margin-top: 1em;
+    .banner-text h1{
+    font-size: 5.62em;
+}
+.banner-text p{
+    font-size: 1.87em;
